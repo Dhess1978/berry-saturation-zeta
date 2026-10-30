@@ -1,5 +1,7 @@
 # Berry saturation of the Riemann zeros from t ≈ 10⁴ to 10²¹
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23815327.svg)](https://doi.org/10.5281/zenodo.23815327)
+
 **David Hess (MAYAN ALFA V1008 LAB v.34.47) · 30.10.2026**
 
 Number variance Σ²(L) and spectral rigidity Δ₃(L) of the non-trivial zeros of the Riemann zeta function in 18 blocks of zeros at heights from t ≈ 10⁴ (LMFDB) through 10⁶ (2,001,052 zeros) to 10²¹ (Odlyzko's tables near the zeros number 10¹², 10²¹, 10²²), compared with Berry's semiclassical formula — which contains no free parameter — with random primes of the same density (Cramér model) and with GUE.
@@ -44,4 +46,6 @@ Text, figures and data: CC BY 4.0 (`LICENSE-CC-BY-4.0.md`). Code: MIT (`LICENSE`
 
 ## Citation
 
-See `CITATION.cff`.
+Hess, D. (2026). *Berry saturation and the statistics of the Riemann zeros from t ~ 1e4 to 1e21: a reproducible numerical study* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.23815327
+
+See also `CITATION.cff` (GitHub: "Cite this repository").

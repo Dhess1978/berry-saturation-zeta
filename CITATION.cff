@@ -4,6 +4,8 @@ type: dataset
 title: "Berry saturation and the statistics of the Riemann zeros from t ~ 1e4 to 1e21: a reproducible numerical study"
 version: "1.0"
 date-released: "2026-10-30"
+doi: "10.5281/zenodo.23815327"
+repository-code: "https://github.com/Dhess1978/berry-saturation-zeta"
 license: ["CC-BY-4.0", "MIT"]
 authors:
   - family-names: "Hess"
