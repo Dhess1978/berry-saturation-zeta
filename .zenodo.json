@@ -1,0 +1,33 @@
+{
+ "title": "Berry saturation and the statistics of the Riemann zeros from t ~ 1e4 to 1e21: a reproducible numerical study",
+ "upload_type": "publication",
+ "publication_type": "preprint",
+ "description": "Number variance and spectral rigidity of the non-trivial zeros of the Riemann zeta function in 18 blocks from t ~ 1e4 to 1e21 (LMFDB; Odlyzko's tables, including the zeros near no. 1e12, 1e21 and 1e22), compared with Berry's semiclassical formula (no free parameter), random primes of the same density (Cramer model) and GUE. Berry's formula reproduces Sigma2(L) within 0.26-1.21 % (RMS), random primes miss by 5-10 %, the saturation level grows with height (0.34 -> 0.56), Delta3 follows from Berry's Sigma2 within 3.3 %, small gaps approach GUE logarithmically slowly and the prime content of S(t) matches the explicit formula within 1.2 % at t ~ 1e21. Article (PDF, DOCX, LaTeX, Markdown), figures, data and the scripts that reproduce every number, with an independent check; SHA-256 of every file. Text, figures and data CC BY 4.0, code MIT.",
+ "creators": [
+  {
+   "name": "Hess, David",
+   "affiliation": "MAYAN ALFA V1008 LAB v.34.47"
+  }
+ ],
+ "license": "cc-by-4.0",
+ "keywords": [
+  "Riemann zeta function",
+  "zeros of the zeta function",
+  "number variance",
+  "spectral rigidity",
+  "Berry saturation",
+  "random matrix theory",
+  "GUE",
+  "explicit formula",
+  "quantum chaos"
+ ],
+ "version": "1.0",
+ "publication_date": "2026-10-30",
+ "language": "eng",
+ "notes": "Code in code/ is released under the MIT licence; text, figures and data under CC BY 4.0.",
+ "references": [
+  "Berry, M. V. (1988). Semiclassical formula for the number variance of the Riemann zeros. Nonlinearity 1, 399-407.",
+  "Odlyzko, A. M. (1987). On the distribution of spacings between zeros of the zeta function. Math. Comp. 48, 273-308.",
+  "Bogomolny, E. B. & Keating, J. P. (1996). Gutzwiller's trace formula and spectral statistics: beyond the diagonal approximation. Phys. Rev. Lett. 77, 1472-1475."
+ ]
+}
