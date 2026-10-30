@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: dataset
+title: "Berry saturation and the statistics of the Riemann zeros from t ~ 1e4 to 1e21: a reproducible numerical study"
+version: "1.0"
+date-released: "2026-10-30"
+license: ["CC-BY-4.0", "MIT"]
+authors:
+  - family-names: "Hess"
+    given-names: "David"
+    affiliation: "MAYAN ALFA V1008 LAB v.34.47"
+keywords: ["Riemann zeta function", "zeros of the zeta function", "number variance", "spectral rigidity", "Berry saturation", "random matrix theory", "GUE", "explicit formula", "quantum chaos"]
