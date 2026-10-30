@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.aux
+*.log
+*.out
+# input zeros are not part of the repository
+zetazeros*.txt
+zeros[0-9]*
